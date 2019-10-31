@@ -1,0 +1,33 @@
+body {
+  background-color: #00acee;
+  text-align: center;
+}
+
+h1 {
+  padding-top: 150px;
+  color: white;
+}
+
+#login-container {
+  /* border: solid;
+  border-width: thin;
+  border-color: white;
+  border-radius: 15px; */
+  text-align: center;
+  /* width: 300px;
+  height: 500px; */
+  display: inline-block;
+}
+
+.login-input {
+  border-radius: 15px;
+  font-size: 25px;
+  text-align: center;
+  margin-bottom: 20px;
+}
+
+.login-button {
+  height: 25px;
+  width: 60px;
+  border-radius: 5px;
+}
